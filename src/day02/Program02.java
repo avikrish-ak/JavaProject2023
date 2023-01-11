@@ -3,7 +3,6 @@ package day02;
 public class Program02 {
 
 public static void main(String[] args) {
-		
 		addFunction(10, 20);
 		addFunction(10.1, 20.2);
 		addFunction(101, 202,303);	
