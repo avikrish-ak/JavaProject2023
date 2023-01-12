@@ -6,6 +6,7 @@ public class Program02 {
 		// >, <, >=, <=, ==, !=,
 		//true / false
 		
+		
 		int x=10;
 		int y=20;
 		double z=10.0;
