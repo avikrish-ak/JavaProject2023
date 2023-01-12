@@ -6,7 +6,6 @@ public class Program02 {
 		// >, <, >=, <=, ==, !=,
 		//true / false
 		
-		
 		int x=10;
 		int y=20;
 		double z=10.0;
@@ -14,16 +13,12 @@ public class Program02 {
 		
 		System.out.println(x>y);
 		System.out.println(y>x);
-		System.out.println(y>=y);
-		
+		System.out.println(y>=y);		
 		System.out.println(x<y);
 		System.out.println(x==z);
 		System.out.println(x==a);
 		System.out.println(x!=y);
-		System.out.println(x!=z);
-		
-		
-		
+		System.out.println(x!=z);		
 
 	}
 
