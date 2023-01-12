@@ -10,6 +10,7 @@ public class Program02 {
 		int x=10;
 		int y=20;
 		double z=10.0;
+		
 		double a=10.2;
 		
 		System.out.println(x>y);
