@@ -19,6 +19,7 @@ public class Program02 {
 		System.out.println(x==a);
 		System.out.println(x!=y);
 		System.out.println(x!=z);		
+		
 
 	}
 
