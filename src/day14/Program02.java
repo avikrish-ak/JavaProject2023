@@ -10,7 +10,7 @@ public class Program02 {
 		x.put(102, "bb");
 		x.put(101, "aaa");
 		x.put(103, "bb");
-		x.put(null, null);
+		//x.put(null, null);
 		System.out.println(x);
 		x.remove(101);
 		System.out.println(x);
